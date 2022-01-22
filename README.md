@@ -1,4 +1,4 @@
-## Olá, eu sou o Marcos Hellmann
+## Olá, meu nome é Marcos :)
 
 - 🔭 Atualmente trabalho como Help Desk;
 - 🌱 Estou finalizando o curso de CCP;

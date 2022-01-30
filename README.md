@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como Help Desk;
 - 🌱 Estou finalizando o curso de CCP;
-- 📚 Estudando HTML e CSS;
+- 📚 Estudando React;
 - 🍕 Amante de Pizza;
 - 🎮 Gamer nas horas livres!
 
